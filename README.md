@@ -12,12 +12,6 @@ beautifulsoup4
 pydantic
 ```
 
-## Table of Contents
-
-**DEPRECATED**
-
-> I have to work on new documentation due to changes in the entire code architecture.
-
 ## Credits
 
 - **Author**: alluding
