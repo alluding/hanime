@@ -2,3 +2,4 @@ tls_client
 beautifulsoup4
 typing_extensions
 pydantic
+furo
