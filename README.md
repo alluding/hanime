@@ -56,7 +56,7 @@ username = hanime_user.username
 Example:
 
 ```python
-user_client = UserClient()  # Leave cookies & headers as None to use the correct ones.
+user_client = UserClient() # Leave cookies & headers as none, therefore the library can use the correct ones. Unless you have fresh ones, that work maybe with `x-signature`.
 ```
 
 ### `create_default_headers()`
