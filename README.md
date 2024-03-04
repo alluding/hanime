@@ -1,6 +1,6 @@
 # Hanime
 
-The **Hanime Python Library** enables interaction with Hanime's API, providing functionalities to fetch information about videos, images, channels, and perform searches. This library is designed to be user-friendly, offering a variety of features for building applications or tools that utilize Hanime's data.
+A simple Python-based library designed to seamlessly interact with the **Hanime** API.
 
 ## Requirements
 
