@@ -2,6 +2,12 @@
 
 A simple Python-based library designed to seamlessly interact with the **Hanime** API.
 
+## Todo
+
+- [ ] Add more `user` related features.
+- [ ] Improve documentation (provide more in-depth information with better examples).
+- [ ] Implement video downloading/scraping (requires solving captcha; refer to the documentation (`notes`) for more information on the captcha used and how to bypass it).
+
 ## Credits
 
 - **Author**: alluding
