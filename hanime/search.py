@@ -21,9 +21,7 @@ class Search:
     def __init__(self, client_identifier: Optional[str] = 'chrome_118'):
         self.session = Session(
             client_identifier=client_identifier, random_tls_extension_order=True)
-        self.session.headers = BaseHeaders()
-        self.session.headers.user_agent = f'HanimeWrapper ({
-            client_identifier})' if client_identifier else self.session.headers.user_agent
+        self.session.headers = BaseHeaders().__dict__
 
     def search(self, payload: SearchPayload) -> Dict[str, Any]:
         response = self.session.post(self.BASE_URL, json=payload.dict())
