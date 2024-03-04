@@ -361,4 +361,4 @@ The method returns a list of **ParsedData** objects representing the search resu
 
 I created this library out of sheer boredom. While it's not my top priority, I won't abandon the project. If there are issues that need fixing, I'll address them. I'll also work on new features if the need arises. Contributions are welcome through issues or pull requests.
 
-Feel free to contact the author for any queries or contributions.
+Feel free to contact the author (me) for any queries or contributions.
