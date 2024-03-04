@@ -2,22 +2,6 @@
 
 A simple Python-based library designed to seamlessly interact with the **Hanime** API.
 
-## Requirements
-
-Before using this library, ensure you have the following requirements installed:
-
-```
-tls_client
-beautifulsoup4
-pydantic
-```
-
-## Table of Contents
-
-**DEPRECATED**
-
-> I have to work on new documentation due to changes in the entire code architecture.
-
 ## Credits
 
 - **Author**: alluding
