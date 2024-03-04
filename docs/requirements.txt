@@ -3,3 +3,4 @@ beautifulsoup4
 typing_extensions
 pydantic
 furo
+myst_parser
