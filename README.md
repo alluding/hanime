@@ -6,9 +6,11 @@ The **Hanime Python Library** enables interaction with Hanime's API, providing f
 
 Before using this library, ensure you have the following requirements installed:
 
-- Python 3.6 or later
-- Requests library (`pip install requests`)
-- Beautiful Soup library (`pip install beautifulsoup4`)
+```
+tls_client
+beautifulsoup4
+pydantic
+```
 
 ## Table of Contents
 
